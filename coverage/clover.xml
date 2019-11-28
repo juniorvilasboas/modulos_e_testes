@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1574972131486" clover="3.2.0">
+  <project timestamp="1574972131486" name="All files">
+    <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6" elements="11" coveredelements="11" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+    <file name="juros.js" path="D:\Programacao\NodeJS\devpleno\Semana3\modulos_e_testes\lib\juros.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

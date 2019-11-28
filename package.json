@@ -1,0 +1,20 @@
+{
+  "name": "modulos_e_testes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "principal.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "jest": {
+    "collectCoverage": true
+  }
+}
